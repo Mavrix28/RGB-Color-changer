@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+h3{
+    font-size: 3rem;
+   
+}
+
+div{
+    height: 200px;
+    width: 700px;
+    font-size: 20px;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    padding-top: 20px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    border-color: rgb(8, 8, 8);
+}
